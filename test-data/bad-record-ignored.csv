@@ -1,0 +1,4 @@
+type,client,tx,amount
+deposit,1,1,1.2345
+depost,hi,there,i am bad data.
+withdrawal,1,2,1.234
